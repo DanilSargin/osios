@@ -274,6 +274,4 @@ export const AdminButton = styled.button`;
 export const AdminImg = styled.img`;
     position: relative;
     top: -70px;
-    width: 756px;
-    height: 527px;
 `;

@@ -43,7 +43,7 @@ import {
 function Main() {
 
     return (
-        <Container>
+        <div>
             <TopBlock>
                 <Left>
                     <TopText><NameApp>Vilka App</NameApp> - Delivery of food from<br></br> all restaurants to your home</TopText>
@@ -141,7 +141,7 @@ function Main() {
                     </Right>
                 </AdminBlocks>
             </AdminPanel>
-        </Container>
+        </div>
     )
 
 
